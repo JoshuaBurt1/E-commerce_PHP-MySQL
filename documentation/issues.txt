@@ -1,0 +1,5 @@
+1. images don't load when changing:
+http://localhost/phpFinalProject200523537/categories (VIEW button clicked) --> http://localhost/phpFinalProject200523537/products/products/2
+http://localhost/phpFinalProject200523537/products?page=1 (ADD TO CART button clicked) --> http://localhost/phpFinalProject200523537/resources/resources/12
+
+when clicking button that redirects to same page (DELETE button) --> images refresh (localhost action)
